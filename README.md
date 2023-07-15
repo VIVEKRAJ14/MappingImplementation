@@ -47,11 +47,6 @@ The project provides CRUD operations for each model, allowing you to perform the
 >Book
 * Create a new book
 * Read book details
-	
-
->## Contributors
-
-Satyam Jaiswal(satyam1459)
 
 >## Project Summary
 This project demonstrates the implementation of various relationships, including one-to-one, one-to-many, many-to-one, and many-to-many, along with an embedded model. It provides CRUD operations for each model, allowing you to manage the data effectively. Feel free to explore and enhance the project as per your requirements.
